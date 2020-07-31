@@ -26,7 +26,7 @@ public class EduCourse implements Serializable {
     private static final long serialVersionUID = 1L;
     @Id
     private String id;
-
+//贵ui一看就立刻
     private String teacherId;
 
 
