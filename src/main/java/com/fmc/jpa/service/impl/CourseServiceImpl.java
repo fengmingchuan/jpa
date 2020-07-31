@@ -175,7 +175,7 @@ public class CourseServiceImpl implements CourseService {
         List<CourseInfo> list = entityManager.createNativeQuery(sql).unwrap(Query.class)
                                .setResultTransformer(Transformers.aliasToBean(CourseInfo.class)).list();
 
-
+//cvzxcv
         return  list;
 
 
