@@ -13,6 +13,6 @@ import java.util.List;
 public interface Teacher  extends JpaRepository<EduTeacher,String>, JpaSpecificationExecutor<EduTeacher> {
 
 
-
+ //hello word
 
 }
