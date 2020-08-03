@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Main-Class: com.fmc.jpa.JpaApplication
+Class-Path: tomcat-embed-core-9.0.36.jar spring-boot-starter-data-jpa-2.
+ 3.1.RELEASE.jar javassist-3.24.0-GA.jar spring-aspects-5.2.7.RELEASE.ja
+ r spring-boot-devtools-2.3.1.RELEASE.jar slf4j-api-1.7.30.jar jakarta.a
+ nnotation-api-1.3.5.jar jakarta.activation-1.2.2.jar tomcat-embed-webso
+ cket-9.0.36.jar jakarta.persistence-api-2.2.3.jar jackson-module-parame
+ ter-names-2.11.0.jar jakarta.el-3.0.3.jar byte-buddy-1.10.11.jar spring
+ -boot-starter-json-2.3.1.RELEASE.jar spring-jcl-5.2.7.RELEASE.jar jacks
+ on-core-2.11.0.jar jboss-logging-3.4.1.Final.jar spring-tx-5.2.7.RELEAS
+ E.jar spring-boot-autoconfigure-2.3.1.RELEASE.jar logback-classic-1.2.3
+ .jar hibernate-commons-annotations-5.1.0.Final.jar spring-boot-starter-
+ data-jdbc-2.3.1.RELEASE.jar jackson-datatype-jdk8-2.11.0.jar aspectjwea
+ ver-1.9.5.jar spring-expression-5.2.7.RELEASE.jar log4j-to-slf4j-2.13.3
+ .jar spring-web-5.2.7.RELEASE.jar spring-beans-5.2.7.RELEASE.jar spring
+ -webmvc-5.2.7.RELEASE.jar snakeyaml-1.26.jar spring-data-relational-2.0
+ .1.RELEASE.jar jackson-datatype-jsr310-2.11.0.jar spring-data-commons-2
+ .3.1.RELEASE.jar log4j-api-2.13.3.jar spring-boot-starter-jdbc-2.3.1.RE
+ LEASE.jar spring-data-jdbc-2.0.1.RELEASE.jar spring-data-jpa-2.3.1.RELE
+ ASE.jar spring-boot-starter-logging-2.3.1.RELEASE.jar spring-jdbc-5.2.7
+ .RELEASE.jar jaxb-runtime-2.3.3.jar txw2-2.3.3.jar classmate-1.5.1.jar 
+ jandex-2.1.3.Final.jar dom4j-2.1.3.jar spring-aop-5.2.7.RELEASE.jar jul
+ -to-slf4j-1.7.30.jar spring-boot-starter-2.3.1.RELEASE.jar hibernate-jp
+ a-2.1-api-1.0.2.jar lombok-1.18.12.jar jakarta.transaction-api-1.3.3.ja
+ r hibernate-core-5.4.17.Final.jar jakarta.activation-api-1.2.2.jar spri
+ ng-boot-starter-tomcat-2.3.1.RELEASE.jar spring-boot-starter-aop-2.3.1.
+ RELEASE.jar jackson-databind-2.11.0.jar logback-core-1.2.3.jar HikariCP
+ -3.4.5.jar mysql-connector-java-8.0.20.jar spring-core-5.2.7.RELEASE.ja
+ r jackson-annotations-2.11.0.jar spring-boot-2.3.1.RELEASE.jar spring-o
+ rm-5.2.7.RELEASE.jar spring-context-5.2.7.RELEASE.jar spring-boot-start
+ er-web-2.3.1.RELEASE.jar jakarta.xml.bind-api-2.3.3.jar istack-commons-
+ runtime-3.0.11.jar antlr-2.7.7.jar
+
